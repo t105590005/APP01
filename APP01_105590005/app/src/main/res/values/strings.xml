@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">APP01_105590005</string>
+    <string name="score">成績:</string>
+    <string name="grade">第等:</string>
+    <string name="editscore">請輸入整數成績</string>
+    <string name="button">成績轉換</string>
+    <string name="X">輸入分數應介於[0..100]</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="F">F</string>
+    <string name="out"/>
+</resources>
